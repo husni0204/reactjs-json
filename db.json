@@ -1,0 +1,95 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "nama": "Rezky",
+            "alamat": "Cikarang",
+            "umur": 8,
+            "nohp": "080989999"
+        },
+        {
+            "id": 2,
+            "nama": "Mira",
+            "alamat": "Perum Grand Cikarang",
+            "umur": 5,
+            "nohp": "080989988"
+        },
+        {
+            "id": 3,
+            "nama": "Dhavita",
+            "alamat": "Cilacap",
+            "umur": 6,
+            "nohp": "080989989"
+        },
+        {
+            "id": 4,
+            "nama": "Siti",
+            "alamat": "Cirebon",
+            "umur": 6,
+            "nohp": "080989989"
+        },
+        {
+            "id": 5,
+            "nama": "Doni Damara",
+            "alamat": "Jakarta",
+            "umur": 6,
+            "nohp": "080989989"
+        },
+        {
+            "id": 6,
+            "nama": "Komara",
+            "alamat": "Surabaya",
+            "umur": 6,
+            "nohp": "080989989"
+        },
+        {
+            "id": 7,
+            "nama": "Komeng",
+            "alamat": "Jakarta",
+            "umur": 6,
+            "nohp": "080989989"
+        },
+        {
+            "id": 8,
+            "nama": "Kudanil",
+            "alamat": "Jatireja",
+            "umur": 6,
+            "nohp": "080989989"
+        },
+        {
+            "id": 9,
+            "nama": "Wanto",
+            "alamat": "Cikarang Selatan",
+            "umur": 6,
+            "nohp": "080989989"
+        },
+        {
+            "id": 10,
+            "nama": "Wahidin",
+            "alamat": "Tegal",
+            "umur": 6,
+            "nohp": "080989989"
+        },
+        {
+            "id": 11,
+            "nama": "Joko Purnomo",
+            "alamat": "Brebes",
+            "umur": 7,
+            "nohp": "080989989"
+        },
+        {
+            "id": 12,
+            "nama": "Jaka Tingkir",
+            "alamat": "Demak",
+            "umur": 6,
+            "nohp": "080989989"
+        },
+        {
+            "id": 13,
+            "nama": "Jaka Tarub",
+            "alamat": "Solo",
+            "umur": 6,
+            "nohp": "080989989"
+        }
+    ]
+}
